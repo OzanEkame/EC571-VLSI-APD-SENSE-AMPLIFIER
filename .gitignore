@@ -1,0 +1,21 @@
+# Cadence Virtuoso
+*.log
+*.err
+*.cdslck
+*.swp
+.cdslck
+cdslck
+simulation/
+*.ahdlSimDB/
+
+# GDS / netlist exports
+*.gds
+*.gds2
+*.oas
+*.spi
+*.spectre
+*.cdl
+
+# OS
+.DS_Store
+Thumbs.db
