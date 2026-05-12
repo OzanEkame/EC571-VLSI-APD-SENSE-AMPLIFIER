@@ -7,6 +7,10 @@
 > Based on: Y.-C. Lai and S.-Y. Huang, "A Resilient and Power-Efficient Automatic-Power-Down Sense Amplifier for SRAM Design," IEEE TCAS-II, vol. 55, no. 10, pp. 1031–1035, Oct. 2008.
 
 ---
+## Report & Presentation
+
+- [Final Report (PDF)](report/A_Resilient_and_Power_Efficient_Automatic_Power_DownSense_Amplifier_for_SRAM_Design.pdf)
+- [Presentation Slides (PDF)](report/EC571_APD_SRAM_Presentation.pdf)
 
 ## Overview
 
