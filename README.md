@@ -9,8 +9,8 @@
 ---
 ## Report & Presentation
 
-- [Final Report (PDF)](report/A_Resilient_and_Power_Efficient_Automatic_Power_DownSense_Amplifier_for_SRAM_Design.pdf)
-- [Presentation Slides (PDF)](report/EC571_APD_SRAM_Presentation.pdf)
+- [Final Report (PDF)](A_Resilient_and_Power_Efficient_Automatic_Power_DownSense_Amplifier_for_SRAM_Design.pdf)
+- [Presentation Slides (PDF)](EC571_APD_SRAM_Presentation.pdf)
 
 ## Overview
 
